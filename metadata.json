@@ -1,0 +1,6 @@
+{
+  "name": "ICT & SMC Trading Mentor - Análisis Institucional",
+  "description": "Mentor experto de trading Smart Money Concepts (SMC) e ICT con análisis multimodal de gráficos y PDFs por voz, detección de liquidez, FVG, Order Blocks y diagramas institucionales en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
